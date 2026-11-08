@@ -1,16 +1,18 @@
-## Hi there 👋
+# Marius Nitzsche
 
-<!--
-**NietzscheM/NietzscheM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mathematician (PhD, University of Stuttgart) working on reconstruction methods
+for medical imaging, from classical iterative solvers to unsupervised neural
+networks (PyTorch).
 
-Here are some ideas to get you started:
+**Research code:** not public yet, because the related manuscript is still
+unpublished. Happy to walk through it on request.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Side projects
+Small apps I design and build with AI coding assistants, from the idea and
+the user feedback to the finished tool:
+
+- **Notenblatt-Werkstatt**: a web app that lets music teachers build exercise
+  sheets (staves, notes, tasks) from building blocks, with Word export.
+  Currently in a closed test phase with invited teachers.
+- **Kaffeebuch**: a personal app for logging and comparing my coffee and
+  espresso preparation.
